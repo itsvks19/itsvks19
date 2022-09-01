@@ -3,7 +3,6 @@
 
 <body>
     <div>
-        <div>Vivek</div>
         <div>
             <h1>COMING SOON</h1>
             <hr style="margin: auto; width: 30%" />
