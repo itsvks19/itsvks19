@@ -4,7 +4,7 @@
 ::selection {
   color: #000000;
 }
-h3::selection {
+h1::selection {
   background: #ff4e4e;
 }
 a::selection {
@@ -16,9 +16,9 @@ p::selection {
 div::selection {
   background: #f8ff00;
 }
-body {
+/* body {
   font-family: "Raleway", "Sans-Serif";
-}
+} */
 /* h3 {
   font: 800 2rem "Montserrat";
 } */
@@ -46,25 +46,26 @@ html {
 }
 /* Animation */
 .typewriter{
-  animation: typewriter 4s steps(44) 1s 1 normal both,
-             blinkTextCursor 500ms steps(11) infinite normal;
+  animation: typewriter 2s steps(25) 250ms 1 normal both,
+             blinkTextCursor 700ms steps(25) infinite normal;
 }
 @keyframes typewriter{
   from{width: 0;}
-  to{width: 24em;}
+  to{width: 6em;}
 }
 @keyframes blinkTextCursor{
   from{border-right-color: rgba(255,255,255,.75);}
   to{border-right-color: transparent;}
 }
 
-h3 {
+h1 {
   position: relative;
     top: 50%;
-    width: 24em;
+    width: 6em;
     margin: 0 auto;
     border-right: 2px solid rgba(255, 255, 255, .75);
-    font-size: 180%;
+    /* font-size: 300%; */
+    font: 600 3.5rem "Anonymous Pro";
     text-align: center;
     white-space: nowrap;
     overflow: hidden;
