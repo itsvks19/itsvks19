@@ -2,64 +2,79 @@
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
 
 ::selection {
-  color: #000000;
+    color: #000000;
 }
+
 h1::selection {
-  background: #ff4e4e;
+    background: #ff4e4e;
 }
+
 a::selection {
-  background: #f8ff00;
+    background: #f8ff00;
 }
+
 p::selection {
-  background: #f8ff00;
+    background: #f8ff00;
 }
+
 div::selection {
-  background: #f8ff00;
+    background: #f8ff00;
 }
-/* body {
-  font-family: "Raleway", "Sans-Serif";
-} */
-/* h3 {
-  font: 800 2rem "Montserrat";
-} */
+
 body {
     height: 100%;
-  padding: 0;
-  color: rgba(255,255,255,.75);
-  font-family: 'Anonymous Pro', monospace;  
-  background-color: rgb(25,25,25);
-  overflow: hidden;
+    padding: 0;
+    color: rgba(255, 255, 255, .75);
+    font-family: 'Anonymous Pro', monospace;
+    background-color: rgb(25, 25, 25);
+    overflow: hidden;
 }
+
 html {
-  height: 100%;
-  overflow: hidden;
+    height: 100%;
+    overflow: hidden;
 }
+
 .bgimg {
-  background-image: url("images/ghost.jpg");
-  /* background: #EFEEEE; */
-  min-height: 100%;
-  background-position: center;
-  background-size: cover;
+    background-image: url("images/ghost.jpg");
+    /* background: #EFEEEE; */
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
 }
+
 .social {
     margin: 2px;
 }
+
 /* Animation */
-.typewriter{
-  animation: typewriter 2s steps(25) 250ms 1 normal both,
-             blinkTextCursor 700ms steps(25) infinite normal;
+.typewriter {
+    animation: typewriter 2s steps(25) 250ms 1 normal both,
+        blinkTextCursor 700ms steps(25) infinite normal;
 }
-@keyframes typewriter{
-  from{width: 0;}
-  to{width: 6em;}
+
+@keyframes typewriter {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 6em;
+    }
 }
-@keyframes blinkTextCursor{
-  from{border-right-color: rgba(255,255,255,.75);}
-  to{border-right-color: transparent;}
+
+@keyframes blinkTextCursor {
+    from {
+        border-right-color: rgba(255, 255, 255, .75);
+    }
+
+    to {
+        border-right-color: transparent;
+    }
 }
 
 h1 {
-  position: relative;
+    position: relative;
     top: 50%;
     width: 6em;
     margin: 0 auto;
@@ -71,4 +86,3 @@ h1 {
     overflow: hidden;
     transform: translateY(-50%);
 }
-
