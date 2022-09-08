@@ -96,8 +96,9 @@ body {
 }
 
 
-.input-fields svg {
+.input-fields img {
     height: 22px;
+    color: #999;
     margin: 0px 10px -3px 25px;
 }
 
