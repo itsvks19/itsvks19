@@ -41,7 +41,7 @@ body {
 
 .main {
     width: 430px;
-    height: 500px;
+    height: 510px;
     padding: 20px 32px 15px 35px;
     border-radius: 35px;
     background: #ecf0f3;
@@ -128,7 +128,7 @@ body {
 
 .forgot-or-signup {
     padding-top: 20px;
-    padding-bottom: 20px;
+    /* padding-bottom: 20px; */
     text-align: center;
 }
 
