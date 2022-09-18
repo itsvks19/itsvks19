@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <body>
     <div>
         <div>
@@ -15,5 +14,4 @@
         </div>
     </div>
 </body>
-
 </html>
