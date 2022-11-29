@@ -1,22 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
+### Hi there 👋
+ I'm Vivek.
+#### GitHub Stats 
+ ![Stats](https://github-readme-stats.vercel.app/api?username=itsvks19&show_icons=true&theme=radical)   
+ ![Streak](https://streak-stats.demolab.com/?user=itsvks19&theme=radical) 
 
-<body>
-    <div>
-        <div>
-            <h1>COMING SOON</h1>
-            <hr style="margin: auto; width: 30%" />
-            <p>365 days left...</p>
-            <hr style="margin: auto; width: 20%" />
-            <p>Stay alive...</p>
-        </div>
-    </div>
-</body>
-
-</html>
-
-#### My GitHub stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=itsvks19&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvks19&layout=compact)](https://github.com/itsvks19/LayoutEditor)
+#### Languages 
+ ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvks19&theme=radical) 
+  
+ ![](https://komarev.com/ghpvc/?username=itsvks19)
