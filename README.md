@@ -1,4 +1,4 @@
-# Hi!
+# Hi
 ## I'm Vivek!
 
 <p>An Android Developer from India 🇮🇳</p>
