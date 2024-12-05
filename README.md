@@ -8,10 +8,8 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![Kotlin](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge)
 ![Jetpack Compose](https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=)
-![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logoColor=ffffff&logo=Ktor)
 ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=bd9117&logo=openjdk&logoColor=FFFFFF&label=)
-![ReactiveX](https://img.shields.io/static/v1?style=for-the-badge&message=RxJava&color=B7178C&logo=ReactiveX&logoColor=FFFFFF&label=)
 ![MaterialYou](https://custom-icon-badges.demolab.com/badge/material%20you-lightblue?style=for-the-badge&logoColor=333&logo=material-you)
 
 ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=FFFFFF&logo=Markdown&logoColor=000000&label=)
@@ -25,7 +23,6 @@ I love learning new things and looking for innovative solutions. My main goal is
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![TOML](https://img.shields.io/badge/TOML-9C4121?style=for-the-badge&logoColor=ffffff&logo=TOML)
-![SVG](https://img.shields.io/badge/Svg-FFB13B?logo=svg&logoColor=black&style=for-the-badge)
 
 ### Web Services
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=DD2C00&logo=Firebase&logoColor=ffffff&label=)
